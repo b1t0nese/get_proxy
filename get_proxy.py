@@ -3,8 +3,8 @@
     █▄█ ██▄ ░█░ ░░ █▀▀ █▀▄ █▄█ █░█ ░█░
 a simple code for parsing 1000+ free proxies
             ｂｙ ｂ１ｔ０ｎｅ
-        tg: https://t.me/u53rnm3
-    github: https://github.com/ArtemChikc
+        tg: https://t.me/w0rld_adm1n
+    github: https://github.com/b1t0nese
 """
 
 import requests
